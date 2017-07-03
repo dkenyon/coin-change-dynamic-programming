@@ -7,6 +7,6 @@ More comments/stdout than actual code.
 - [x] Coin change for *n* different combinations to get a certain value
 - [ ] Coin change to get minimum amount of coins required to get a certain value
 - [x] Print solution to console
-- [ ] Print verbose steps to console
-- [ ] Print verbose steps to console
+- [ ] Print verbose steps to console for # of coin combinations
+- [ ] Print verbose steps to console for min # of coin combinations
 - [ ] Print verbose steps and solution to file
