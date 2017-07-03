@@ -1,4 +1,4 @@
-# really-verbose
+# Dynamic Programming Coin Change
 Solves and prints the cache to the console the classic dynamic programming coin change problem (min coin and max combinations).
 
 - Verify your solution and trace logic through printed cache.
